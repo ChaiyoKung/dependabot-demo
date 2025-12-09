@@ -110,7 +110,7 @@
     "@nestjs/schematics": "10.0.1",
     "@nestjs/testing": "10.4.4",
     "@nx/cypress": "20.4.6",
-    "@nx/eslint": "20.4.6",
+    "@nx/eslint": "22.2.0",
     "@nx/eslint-plugin": "20.4.6",
     "@nx/jest": "20.4.6",
     "@nx/js": "20.4.6",
