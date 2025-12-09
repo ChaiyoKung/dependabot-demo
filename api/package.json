@@ -109,7 +109,7 @@
     "@jgoz/esbuild-plugin-typecheck": "^2.0.0",
     "@nestjs/schematics": "10.0.1",
     "@nestjs/testing": "10.4.4",
-    "@nx/cypress": "20.4.6",
+    "@nx/cypress": "22.2.0",
     "@nx/eslint": "22.2.0",
     "@nx/eslint-plugin": "20.4.6",
     "@nx/jest": "22.2.0",
