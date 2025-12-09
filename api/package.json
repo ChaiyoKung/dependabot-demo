@@ -108,7 +108,7 @@
     "@emotion/babel-plugin": "11.11.0",
     "@jgoz/esbuild-plugin-typecheck": "^2.0.0",
     "@nestjs/schematics": "10.0.1",
-    "@nestjs/testing": "10.4.4",
+    "@nestjs/testing": "10.4.20",
     "@nx/cypress": "20.4.6",
     "@nx/eslint": "22.2.0",
     "@nx/eslint-plugin": "20.4.6",
