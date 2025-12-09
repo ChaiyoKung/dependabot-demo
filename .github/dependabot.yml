@@ -6,6 +6,7 @@ updates:
     target-branch: "main"
     schedule:
       interval: "daily"
+    open-pull-requests-limit: 0
 
   - package-ecosystem: "npm"
     directories:
@@ -14,6 +15,7 @@ updates:
     target-branch: "main"
     schedule:
       interval: "daily"
+    open-pull-requests-limit: 0
 
   # main.v1 branch
   - package-ecosystem: "nuget"
@@ -21,6 +23,7 @@ updates:
     target-branch: "main.v1"
     schedule:
       interval: "daily"
+    open-pull-requests-limit: 0
 
   - package-ecosystem: "npm"
     directories:
@@ -29,3 +32,4 @@ updates:
     target-branch: "main.v1"
     schedule:
       interval: "daily"
+    open-pull-requests-limit: 0
