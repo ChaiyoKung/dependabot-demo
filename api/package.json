@@ -24,7 +24,7 @@
     "@mantine/dates": "^6.0.19",
     "@mantine/hooks": "^6.0.19",
     "@microsoft/signalr": "^7.0.10",
-    "@mui/material": "^5.11.15",
+    "@mui/material": "^7.3.6",
     "@nestjs/axios": "^3.0.0",
     "@nestjs/common": "10.4.16",
     "@nestjs/core": "10.4.15",
