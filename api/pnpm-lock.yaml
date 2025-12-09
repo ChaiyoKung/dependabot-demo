@@ -338,8 +338,8 @@ importers:
         specifier: 20.4.6
         version: 20.4.6(@babel/traverse@7.28.5)(@swc/core@1.5.7(@swc/helpers@0.5.17))(@types/node@18.19.9)(@zkochan/js-yaml@0.0.7)(cypress@13.17.0)(eslint@8.57.1)(nx@20.4.6(@swc/core@1.5.7(@swc/helpers@0.5.17)))(typescript@5.0.4)
       '@nx/eslint':
-        specifier: 20.4.6
-        version: 20.4.6(@babel/traverse@7.28.5)(@swc/core@1.5.7(@swc/helpers@0.5.17))(@types/node@18.19.9)(@zkochan/js-yaml@0.0.7)(eslint@8.57.1)(nx@20.4.6(@swc/core@1.5.7(@swc/helpers@0.5.17)))
+        specifier: 22.2.0
+        version: 22.2.0(@babel/traverse@7.28.5)(@swc/core@1.5.7(@swc/helpers@0.5.17))(@zkochan/js-yaml@0.0.7)(eslint@8.57.1)(nx@20.4.6(@swc/core@1.5.7(@swc/helpers@0.5.17)))
       '@nx/eslint-plugin':
         specifier: 20.4.6
         version: 20.4.6(@babel/traverse@7.28.5)(@swc/core@1.5.7(@swc/helpers@0.5.17))(@types/node@18.19.9)(@typescript-eslint/parser@7.18.0(eslint@8.57.1)(typescript@5.0.4))(eslint-config-prettier@9.0.0(eslint@8.57.1))(eslint@8.57.1)(nx@20.4.6(@swc/core@1.5.7(@swc/helpers@0.5.17)))(typescript@5.0.4)
