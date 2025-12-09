@@ -8,7 +8,9 @@ updates:
       interval: "daily"
 
   - package-ecosystem: "npm"
-    directory: "/"
+    directories:
+      - "/*"
+      - "/rebirth/*"
     target-branch: "main"
     schedule:
       interval: "daily"
@@ -21,7 +23,9 @@ updates:
       interval: "daily"
 
   - package-ecosystem: "npm"
-    directory: "/"
+    directories:
+      - "/*"
+      - "/rebirth/*"
     target-branch: "main.v1"
     schedule:
       interval: "daily"
