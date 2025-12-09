@@ -214,7 +214,7 @@
       "store2": "2.14.4",
       "form-data": "^4.0.1",
       "multer": "2.0.2",
-      "koa": "2.16.2",
+      "koa": "2.16.3",
       "esbuild": "^0.25.0",
       "@babel/runtime": "7.26.10",
       "@babel/helpers": "7.26.10",
